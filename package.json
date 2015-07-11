@@ -1,0 +1,39 @@
+{
+  "name": "gulp-apidoc-history",
+  "version": "0.0.1",
+  "description": "Collect comment from your js files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoyer2010/gulp-apidoc-history.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "apidoc",
+    "documentation",
+    "rest",
+    "doc",
+    "history"
+  ],
+  "author": {
+    "name": "wenhongjun"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoyer2010/gulp-apidoc-history/issues"
+  },
+  "homepage": "https://github.com/shoyer2010/gulp-apidoc-history/wiki",
+  "dependencies": {
+    "gulp-util": "3.0.4",
+    "through2": "2.0.0"
+  },
+  "devDependencies": {
+  },
+  "maintainers": [
+    {
+      "name": "wenhongjun",
+      "email": "shoyer2010@gmail.com"
+    }
+  ],
+  "directories": {}
+}
